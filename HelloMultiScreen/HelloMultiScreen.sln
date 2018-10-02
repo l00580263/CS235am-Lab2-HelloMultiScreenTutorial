@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMultiScreen", "HelloMultiScreen\HelloMultiScreen.csproj", "{CA1AB048-D8B3-4953-B614-AA8DE11FCBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1AB048-D8B3-4953-B614-AA8DE11FCBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1AB048-D8B3-4953-B614-AA8DE11FCBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1AB048-D8B3-4953-B614-AA8DE11FCBFE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA1AB048-D8B3-4953-B614-AA8DE11FCBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1AB048-D8B3-4953-B614-AA8DE11FCBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1AB048-D8B3-4953-B614-AA8DE11FCBFE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3689375D-D510-4286-8A6C-50234A65E8CF}
+	EndGlobalSection
+EndGlobal
