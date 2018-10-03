@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cameron Files\\School\\LCC\\CS 235am\\Lab 2\\HelloMultiScreen\\HelloMultiScreen\\HelloMultiScreen\\HelloMultiScreen.csproj",
+      "projectUniqueName": "C:\\Cameron Files\\School\\LCC\\CS 235am\\Lab 2\\HMS\\HelloMultiScreen\\HelloMultiScreen\\HelloMultiScreen.csproj",
       "projectName": "HelloMultiScreen",
-      "projectPath": "C:\\Cameron Files\\School\\LCC\\CS 235am\\Lab 2\\HelloMultiScreen\\HelloMultiScreen\\HelloMultiScreen\\HelloMultiScreen.csproj",
+      "projectPath": "C:\\Cameron Files\\School\\LCC\\CS 235am\\Lab 2\\HMS\\HelloMultiScreen\\HelloMultiScreen\\HelloMultiScreen.csproj",
       "packagesPath": "C:\\Users\\Cameron DeDore\\.nuget\\packages\\",
-      "outputPath": "C:\\Cameron Files\\School\\LCC\\CS 235am\\Lab 2\\HelloMultiScreen\\HelloMultiScreen\\HelloMultiScreen\\obj\\",
+      "outputPath": "C:\\Cameron Files\\School\\LCC\\CS 235am\\Lab 2\\HMS\\HelloMultiScreen\\HelloMultiScreen\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
